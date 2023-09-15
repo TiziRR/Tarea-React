@@ -1,0 +1,11 @@
+.App {
+    background-image: linear-gradient(black, white);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.App h1 {
+    color: white;
+}
